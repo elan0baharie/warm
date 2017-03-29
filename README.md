@@ -1,37 +1,46 @@
-# _{Application Name}_
+# _Leap Year Detector_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _An exercise to determine if a year is a leap year, 03.29.17_
 
-#### By _**{List of contributors}**_
+#### By _**Elan Baharie & Anatoliy Klots**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_Practicing behavior driven development concepts with use of branching logic to detect whether the year input by a user is a leap year. Specifications are as follows:
+The program should return when a year is not a leap year.
+Input Example: 1993
+Output Example: false
+
+The program should return 'true' for years divisible by 4, since those are leap years.
+Input Example: 2004
+Output Example: true
+
+The program should return 'false' for years divisible by 100, since those are not leap years.
+Input Example: 1900
+Output Example: false
+
+The program should return 'true' for years divisible by 400, since those are leap years.
+Input Example: 2000
+Output Example: true
+_
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+* _clone repository from Github_
+* _open page with web browser_
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
-
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_0elan1@gmail.com_
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_Bootstrap, jQuery, Javascript_
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*MIT License*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2016 **_EB & AK_**
